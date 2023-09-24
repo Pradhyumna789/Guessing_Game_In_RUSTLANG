@@ -1,4 +1,4 @@
-# Guessing_Game_In_RUSTLANG - Project is still in progress
+# Guessing_Game_In_RUSTLANG 
 
 ## Overview of the output
 
